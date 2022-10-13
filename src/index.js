@@ -22,5 +22,5 @@ function testing(){
 
 //this is index.js
 function sum(){
-    
+    console.log("Hi there")
 }
