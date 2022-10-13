@@ -18,3 +18,6 @@ const name = "sachin"
 function testing(){
     return 2
 }
+
+
+//this is index.js
